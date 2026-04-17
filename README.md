@@ -156,7 +156,7 @@ Windows 10 Endpoint (Sysmon)
 | Project | Description |
 |---|---|
 | [SOC Automation Lab 2.0](https://github.com/manikandanrsoc/SOC-Automation-Project-2.0) | AI-driven pipeline — Splunk + n8n + OpenAI + AbuseIPDB + Slack |
-| [Portfolio / About Me](https://github.com/smartmani9607) | Full profile, certifications, and SOC simulator results |
+| [Portfolio / About Me](https://github.com/manikandanrsoc/portfolio) | Full profile, certifications, and SOC simulator results |
 
 ---
 
